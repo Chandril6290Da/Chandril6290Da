@@ -1,13 +1,7 @@
  Hii, i'm chandril 👋
 
 
-- 🔭 I’m a bca student at EIILM-KOKATA<br/>
-- 🌱 I’m currently learning FULL-STACK WEB DEVLOPMENT,PYTHON,C,C++<br/>
-- 👯 I’m recntly work on my new projects<br/>
-- 💬 Ask me about coding and problem solving<br/>
-- 📫 How to reach me: instagram :-
-- 😄 Pronouns: he/him<br/>
-- ⚡ Fun fact: learn then deploy<br/>
+thank you for visiting my profile
 
 
 
