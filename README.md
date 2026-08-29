@@ -1,5 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Chandril6290Da's GitHub profile" src="dark_mode.svg" />
-</picture>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Chandrail6290Da/Chandrail6290Da/main/chandril_goswami_colourful_loading.gif"
+    width="100%"
+    alt="Chandril Goswami"
+  />
+</p>
