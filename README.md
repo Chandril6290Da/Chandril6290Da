@@ -1,272 +1,246 @@
+# CHANDRIL GOSWAMI
+### AI / ML Engineer · Intelligent Systems Builder · Robotics Explorer
 
-<!-- =========================================================
-     CHANDRIL GOSWAMI | FUTURISTIC AI ENGINEER PROFILE
-     GitHub-compatible Markdown + HTML + SVG
-========================================================== -->
-
-<div align="center">
-
-<!--
-PROFILE IMAGE SETUP
-Upload your portrait to this repository as assets/profile.png.
-If you choose a different filename, update the image path below.
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,45:123B75,75:247BFF,100:FF354F&height=230&section=header&text=CHANDRIL%20GOSWAMI&fontSize=42&fontColor=F8FAFC&fontAlignY=35&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20DATA%20SCIENCE%20%20%E2%80%A2%20%20ROBOTICS&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Chandril Goswami — AI/ML, Data Science and Robotics"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=56B6FF&center=true&vCenter=true&width=760&lines=Aspiring+AI%2FML+Engineer;Turning+Data+into+Useful+Insights;Learning+Machine+Learning+by+Building;Exploring+Generative+AI%2C+IoT+%26+Robotics" alt="Animated profile introduction"/>
-
-<p>
-  <a href="https://github.com/Chandril6290Da"><img src="https://img.shields.io/badge/GitHub-Chandril6290Da-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/chandrilgoswami"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Chandril Goswami — AI and Machine Learning Engineer" width="100%" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Chandril6290Da&style=flat-square&color=247BFF&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Chandril6290Da?style=flat-square&color=FF354F&label=FOLLOWERS" alt="GitHub followers"/>
-
-</div>
-
----
-
-## `01 / ABOUT ME`
-
-Hi! I'm **Chandril Goswami**, a BCA student specializing in **Machine Learning at EIILM Kolkata**, building my career around Artificial Intelligence, Machine Learning, Data Science, and intelligent applications.
-
-I enjoy learning by doing: understanding a concept, writing code, building a project, evaluating the result, and documenting what I learned. My background also includes experience with operations and data, which helped me appreciate how data can support practical decisions.
-
-- 🎓 **Education:** BCA — Machine Learning specialization, EIILM Kolkata
-- 🧠 **Primary interests:** Artificial Intelligence, Machine Learning, Data Analysis
-- 🛠️ **Exploring:** Generative AI, NLP, RAG, automation, IoT, and robotics
-- 📍 **Based in:** Kolkata, West Bengal, India
-- 🚀 **Goal:** Build useful, reliable, and well-documented technology projects
-
-> **My approach:** Learn the fundamentals. Build practical solutions. Measure results honestly. Improve continuously.
-
----
-
-## `02 / CURRENT FOCUS`
-
-<div align="center">
-
-| Focus area | What I'm learning and building |
-|---|---|
-| 🧠 Machine Learning | Regression, classification, preprocessing, feature engineering, model evaluation |
-| 📊 Data Analysis | Data cleaning, exploratory analysis, visualization, insight generation |
-| ✨ Generative AI | LLM concepts, prompt design, RAG fundamentals, AI-powered applications |
-| ⚙️ Automation | Python workflows, process automation, connecting useful tools |
-| 🤖 Robotics & IoT | Sensors, actuators, Arduino, ESP32, embedded systems, autonomous systems |
-| 💻 Software Development | Python OOP, SQL, web applications, APIs, testing and documentation |
-
-</div>
-
----
-
-## `03 / TECH STACK`
-
-### Programming languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript"/>
+<p align="center">
+  <a href="https://github.com/Chandril6290Da">
+    <img src="https://img.shields.io/badge/GitHub-Chandril6290Da-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:chandrilgoswamiofficial6290@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-7C3AED?style=for-the-badge" alt="AI and ML Focus" />
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-0891B2?style=for-the-badge" alt="Location" />
 </p>
 
-### Data analysis and machine learning
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+## `01` — SYSTEM PROFILE
+
+<p align="center">
+  <img src="./assets/about-life.svg" alt="About Chandril" width="100%" />
 </p>
 
-### Web development and databases
+I'm **Chandril Goswami**, a BCA (Honours) student specializing in Machine Learning, interested in building practical intelligent systems that connect data, software, and the physical world.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+My approach is simple: understand the problem, prepare the data, build the solution, evaluate the results, and improve through experimentation.
+
+- **Core interest:** Artificial Intelligence and Machine Learning
+- **Data:** Data cleaning, preprocessing, analysis, and visualization
+- **Development:** Python, SQL, web technologies, and APIs
+- **Robotics:** Arduino, ESP32, sensors, and embedded systems
+- **Current direction:** Developing end-to-end ML projects and strengthening model deployment skills
+- **Based in:** Kolkata, West Bengal, India
+
+> Learn deeply. Build often. Keep improving.
+
+---
+
+## `02` — TECH STACK
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="Technology stack" width="100%" />
 </p>
 
-### Tools and areas I'm exploring
+### AI, Machine Learning & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-222222?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge" alt="Natural Language Processing"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
-<sub>These badges describe my technology interests and working/learning areas; they do not imply expert-level proficiency in every listed technology.</sub>
+**Focus areas:** Data preprocessing, feature engineering, missing-value imputation, encoding, scaling, classification, regression, model evaluation, NLP fundamentals, and exploratory data analysis.
+
+### Web Development & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+### Robotics & Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0F766E?style=flat-square&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-475569?style=flat-square" />
+  <img src="https://img.shields.io/badge/Motor_Drivers-334155?style=flat-square" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## `04 / EXPERIENCE`
+## `03` — FEATURED PROJECTS
 
-### AI Intern — Alpha Innovation
-*May 2024 – August 2024*
+<p align="center">
+  <img src="./assets/id-dashboard.svg" alt="Projects and engineering dashboard" width="100%" />
+</p>
 
-- Developed and tested machine-learning models for practical business problems.
-- Worked on hyperparameter tuning and feature engineering to improve model performance.
-- Cleaned and analysed datasets containing 10,000+ records.
-- Collaborated on AI-oriented solutions and model evaluation.
+### 01. AI / ML Internship Projects
 
-### Operations & Data Assistant — Apollo Pharmacy
-*March 2023 – June 2023*
+**Repository:** [RabTech-AI-ML-Internship](https://github.com/Chandril6290Da/RabTech-AI-ML-Internship)
 
-- Worked with sales and inventory data to support budget-planning activities.
-- Conducted market research and prepared customer-trend reports.
-- Developed an interest in data-driven decision-making and operational analysis.
+A project-based workspace for learning and implementing machine learning workflows.
 
----
+- Problem framing and dataset understanding
+- Responsible data documentation and risk assessment
+- Data preprocessing and model development
+- Model comparison and evaluation
+- NLP classification experiments
+- API-based deployment practice
 
-## `05 / FEATURED PROJECTS`
+**Technologies:** Python · Pandas · scikit-learn · NLP · FastAPI
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 02. IoT & Robotics Learning Resource Map
 
-### 🏠 House Price Prediction
+**Repository:** [IoT & Robotics Guide](https://github.com/Chandril6290Da/Iot-robotics-GUIDE) · [Live Demo](https://chandril6290da.github.io/Iot-robotics-GUIDE/)
 
-A regression project using the Ames Housing dataset to estimate house prices.
+An interactive learning resource map that organizes tutorials, repositories, and learning paths from beginner to advanced topics.
 
-- Linear Regression and KNN Regression
-- Data preprocessing and feature engineering
-- Hyperparameter tuning and model evaluation
-- Reported project result: R² = 0.87
+- Searchable learning resources
+- Filters for language, content type, and skill level
+- Learning paths across IoT, embedded systems, robotics, and AI
+- Responsive web interface
 
-**Focus:** Regression · Scikit-learn · Model evaluation
+**Technologies:** HTML5 · CSS3 · JavaScript
 
-</td>
-    <td width="50%" valign="top">
+### 03. Library Management System
 
-### 🎯 AI-Powered Student Career Recommendation System
+**Repository:** [Library Management System](https://github.com/Chandril6290Da/LIABREY_MANGEMENT_SYSTEM)
 
-A Python project designed to recommend career directions using structured scoring logic.
+A menu-driven C application for managing library books, members, and issue/return operations.
 
-- Object-oriented programming
-- Rule-based scoring algorithms
-- Matching student inputs to career suggestions
-- Organised, explainable recommendation logic
+- Book and member records
+- Search and availability tracking
+- Issue and return workflows
+- File-based data persistence
 
-**Focus:** Python · OOP · Decision logic
+**Technologies:** C · Structures · File Handling
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+### 04. Data Analytics & Machine Learning Experiments
 
-### 🩺 Medical Cost Prediction
+A growing collection of experiments focused on transforming raw data into useful insights and building predictive models.
 
-A machine-learning project focused on predicting medical costs from structured data.
+Areas of exploration:
 
-- Data preprocessing
-- Feature engineering
-- Regression modelling
-- Evaluation with appropriate metrics
+- Exploratory data analysis
+- Data cleaning and feature engineering
+- Classification and regression
+- Model evaluation and comparison
+- Data visualization and dashboard design
 
-**Focus:** Python · Regression · Data preparation
-
-</td>
-    <td width="50%" valign="top">
-
-### 🤖 IoT & Robotics Guide
-
-A learning resource for exploring Internet of Things concepts, robotics, embedded systems, and related practical topics.
-
-- Guides and learning material
-- Robotics and IoT exploration
-- Web-based presentation
-
-**Repository:** [Open IoT & Robotics Guide](https://github.com/Chandril6290Da/Iot-robotics-GUIDE)
-
-</td>
-  </tr>
-</table>
-
-### More repositories
-
-| Project | Description | Link |
-|---|---|---|
-| RabTech AI/ML Internship | Machine-learning internship workspace and experiments | [View repository](https://github.com/Chandril6290Da/RabTech-AI-ML-Internship) |
-| Library Management System | C-based library management practice project using structures and file handling | [View repository](https://github.com/Chandril6290Da/LIABREY_MANGEMENT_SYSTEM) |
-| Other projects | Browse my public repositories for more coding and learning projects | [All repositories](https://github.com/Chandril6290Da?tab=repositories) |
+*Explore my repositories for the latest published implementations.*
 
 ---
 
-## `06 / FUTURE BUILD LIST`
-
-These are learning and development directions, not claims that the projects are already complete.
-
-- **RAG-based knowledge assistant:** Retrieve relevant information from a curated document collection and generate grounded answers.
-- **Obstacle-avoiding robot:** Combine sensors, control logic, and embedded programming.
-- **Robotics control project:** Explore servo motors, movement patterns, and robot control.
-- **Computer vision experiments:** Investigate image processing and object detection for practical applications.
-- **AI workflow automation:** Connect data preparation, analysis, and automated reporting.
-- **IoT monitoring dashboard:** Explore sensor data collection and visualisation.
-
----
-
-## `07 / HOW I BUILD`
+## `04` — MACHINE LEARNING WORKFLOW
 
 ```text
-01  DEFINE       Understand the problem and desired outcome
-02  EXPLORE      Inspect the data, requirements, and constraints
-03  PREPARE      Clean data and build a reproducible workflow
-04  IMPLEMENT    Code the solution and train/test where relevant
-05  EVALUATE     Check metrics, edge cases, and limitations
-06  DOCUMENT     Explain setup, decisions, and results
-07  IMPROVE      Refine the project and share the learnings
+PROBLEM DEFINITION
+       |
+       v
+DATA COLLECTION & UNDERSTANDING
+       |
+       v
+DATA QUALITY & EXPLORATORY ANALYSIS
+       |
+       v
+PREPROCESSING & FEATURE ENGINEERING
+       |
+       v
+TRAIN / TEST SPLIT
+       |
+       v
+MODEL TRAINING & VALIDATION
+       |
+       v
+EVALUATION & ERROR ANALYSIS
+       |
+       v
+DEPLOYMENT & MONITORING
+       |
+       v
+ITERATION AND IMPROVEMENT
 ```
 
-I aim to make projects understandable and reproducible by documenting their purpose, setup, approach, evaluation, and limitations.
+My goal is to understand the **complete machine learning lifecycle**, not just model training: from identifying the right problem and preventing data leakage to evaluating performance and building usable applications.
 
 ---
 
-## `08 / GITHUB STATS`
+## `05` — GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chandril6290Da&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&theme=default" alt="Most used programming languages" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chandril6290Da&show_icons=true&hide_border=true&bg_color=070B16&title_color=56B6FF&text_color=EAF2FF&icon_color=FF4D79&rank_icon=github" alt="GitHub profile statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&bg_color=070B16&title_color=56B6FF&text_color=EAF2FF" alt="Most used programming languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chandril6290Da&hide_border=true&theme=default" alt="GitHub contribution streak" width="70%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandril6290Da&theme=minimal&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Chandril6290Da&hide_border=true&background=070B16&ring=247BFF&fire=FF354F&currStreakLabel=56B6FF&sideLabels=EAF2FF&dates=94A3B8" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/247BFF/Chandril6290Da" width="100%" alt="GitHub contribution chart"/>
-
-</div>
-
-<sub>Stats are provided by third-party services and may be delayed, incomplete, or temporarily unavailable. They are not manually claimed metrics.</sub>
+*Note: These analytics are provided by external services. They may occasionally load slowly or be unavailable.*
 
 ---
 
-## `09 / CONNECT WITH ME`
+## `06` — CURRENT MISSION
 
-<div align="center">
+<p align="center">
+  <img src="./assets/connect.svg" alt="Connect and collaborate" width="100%" />
+</p>
 
-### LET'S LEARN, BUILD, AND GROW.
+- Strengthen machine learning fundamentals through hands-on implementation.
+- Build robust preprocessing and model evaluation pipelines.
+- Learn to serve models through APIs and deployment workflows.
+- Explore the intersection of AI, IoT, and robotics.
+- Develop projects that solve practical problems and demonstrate measurable value.
 
-I'm happy to connect with learners, developers, and teams working on AI/ML, data science, automation, and robotics.
+---
 
-<a href="https://github.com/Chandril6290Da"><img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://www.linkedin.com/in/chandrilgoswami"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+## `07` — LET'S CONNECT
 
-<br/><br/>
+I'm interested in AI/ML opportunities, collaborative projects, technical learning, and building useful intelligent systems.
 
-**Dream → Learn → Build → Make an Impact**
+<p align="center">
+  <a href="https://github.com/Chandril6290Da">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+  </a>
+  <a href="mailto:chandrilgoswamiofficial6290@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
 
-*Building today. Learning continuously. Engineering tomorrow.*
+<p align="center">
+  <b>BUILD → LEARN → EXPERIMENT → IMPROVE</b>
+</p>
 
-</div>
+<p align="center">
+  <i>Engineering tomorrow, one experiment at a time.</i>
+</p>
