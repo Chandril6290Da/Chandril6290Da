@@ -1,19 +1,206 @@
-<p align="center">
-  <img src="./chandril_goswami_colourful_loading.gif" width="100%" alt="Chandril Goswami">
-</p>
 
+<!-- ======================================================= -->
+<!-- CHANDRIL GOSWAMI | FUTURISTIC DEVELOPER PROFILE          -->
+<!-- ======================================================= -->
 
-<h3 align="center">A passionate AI/ML ENTHUSIAST from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:0891B2,100:7C3AED&height=230&section=header&text=CHANDRIL%20GOSWAMI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20ROBOTICS%20%7C%20IoT%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Futuristic profile banner"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandril goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandril goswami" height="30" width="40" /></a>
-<a href="https://kaggle.com/chandrilwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chandrilwork" height="30" width="40" /></a>
-<a href="https://fb.com/chandril goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandril goswami" height="30" width="40" /></a>
-<a href="https://instagram.com/dc_ron_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dc_ron_o" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Machine+Learning+%26+Deep+Learning;Connecting+the+Physical+World+with+IoT;Learning.+Building.+Experimenting.+Improving." alt="Animated introduction"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br/>
+
+<a href="https://github.com/Chandril6290Da">
+  <img src="https://img.shields.io/badge/GitHub-Chandril6290Da-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Chandril6290Da?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Chandril6290Da?tab=followers">
+  <img src="https://img.shields.io/github/followers/Chandril6290Da?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
+</a>
+
+</div>
+
+---
+
+## `> SYSTEM_PROFILE`
+
+```text
+NAME       : Chandril Goswami
+ROLE       : Aspiring AI/ML & Robotics Engineer
+FOCUS      : Intelligent Systems • Automation • Data
+INTERESTS  : Machine Learning • Deep Learning • IoT
+APPROACH   : Learn → Build → Test → Improve
+MISSION    : Turn ideas into practical technology.
+```
+
+I'm passionate about exploring how software, data, and hardware can work together to solve real-world problems.
+
+My journey combines programming, machine learning, intelligent automation, and connected systems. I enjoy building projects, experimenting with new technologies, and documenting what I learn along the way.
+
+> **Think intelligently. Build practically. Engineer responsibly.**
+
+---
+
+## `> CORE_TECHNOLOGY_MATRIX`
+
+<div align="center">
+
+### AI • MACHINE LEARNING • DATA
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" alt="AI and machine learning technologies"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-Model_Development-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep_Learning-Continuous_Learning-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-Text_Intelligence-0D9488?style=flat-square"/>
+
+### PROGRAMMING • DATABASES • ANALYTICS
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,git,github,vscode&theme=dark" alt="Programming and development tools"/>
+
+<img src="https://img.shields.io/badge/SQL-Database_Queries-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-Database_Programming-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=flat-square"/>
+
+### ROBOTICS • IoT • EMBEDDED SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" alt="Hardware and embedded development tools"/>
+
+<img src="https://img.shields.io/badge/IoT-Connected_Systems-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Robotics-Automation-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-Exploring-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-Learning-0D9488?style=flat-square"/>
+
+</div>
+
+> Technologies shown represent my areas of interest and learning. My proficiency varies by tool, and I am continuously developing my practical skills.
+
+---
+
+## `> FEATURED_PROJECTS`
+
+### 01 / IoT & Robotics Learning Resource Map
+
+**An interactive roadmap for exploring IoT, robotics, and embedded systems.**
+
+- Curated learning resources and GitHub repositories.
+- Search and filtering by language, content type, and skill level.
+- Covers sensors, embedded systems, networking, robotics, and autonomous systems.
+
+[**↗ Explore Repository**](https://github.com/Chandril6290Da/Iot-robotics-GUIDE) · [Live Demo](https://chandril6290da.github.io/Iot-robotics-GUIDE/)
+
+### 02 / Live System Monitoring
+
+**A web-based system monitoring project.**
+
+Explore the source code, interface, and implementation details in the repository.
+
+[**↗ Explore Repository**](https://github.com/Chandril6290Da/LIVE-SYSTEM-MONITORING)
+
+### 03 / Client-Side Model Inference Validation Hub
+
+**A project focused on client-side model inference and validation.**
+
+Explore the implementation and documentation to understand its design and functionality.
+
+[**↗ Explore Repository**](https://github.com/Chandril6290Da/Client-Side-Model-Inference-Validation-Hub)
+
+### 04 / AI-Powered Resume Builder
+
+**A resume-building and formatting project.**
+
+[**↗ Explore Project Source**](https://github.com/Chandril6290Da?tab=repositories)
+
+### 05 / Library Management System — C
+
+**A menu-driven C programming project using structures and file handling.**
+
+- Book and member management
+- Book issue and return operations
+- Search and availability tracking
+- Persistent text-file storage
+
+[**↗ Explore Repository**](https://github.com/Chandril6290Da/LIABREY_MANGEMENT_SYSTEM)
+
+---
+
+## `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chandril6290Da&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="170" alt="Most-used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Chandril6290Da&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="95%" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandril6290Da&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `> CURRENT_LEARNING_OBJECTIVES`
+
+- [ ] Strengthen Python and core programming fundamentals.
+- [ ] Master data preprocessing, EDA, and feature engineering.
+- [ ] Develop machine learning models for classification and regression.
+- [ ] Explore NLP and deep learning applications.
+- [ ] Build practical IoT and robotics prototypes.
+- [ ] Improve SQL, PL/SQL, and data analytics skills.
+- [ ] Learn model deployment and production-oriented workflows.
+- [ ] Create well-documented, reproducible engineering projects.
+
+---
+
+## `> ENGINEERING_PHILOSOPHY`
+
+```python
+class EngineerInProgress:
+    def __init__(self):
+        self.mindset = "Continuous Learning"
+        self.method = ["Learn", "Build", "Test", "Improve"]
+        self.focus = ["AI/ML", "Robotics", "IoT"]
+
+    def next_step(self):
+        return "Build something useful."
+
+me = EngineerInProgress()
+print(me.next_step())
+```
+
+---
+
+## `> CONNECT_WITH_ME`
+
+<div align="center">
+
+<a href="https://github.com/Chandril6290Da">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/Chandril6290Da?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View_Projects-0891B2?style=for-the-badge&logo=git"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Chandril6290Da&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile view counter"/>
+
+<br/><br/>
+
+**Building today. Innovating tomorrow.**
+
+<sub>Designed with curiosity, code, and a futuristic engineering mindset.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:020617&height=110&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
