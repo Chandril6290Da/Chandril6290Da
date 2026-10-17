@@ -1,206 +1,261 @@
 
-<!-- ======================================================= -->
-<!-- CHANDRIL GOSWAMI | FUTURISTIC DEVELOPER PROFILE          -->
-<!-- ======================================================= -->
+<!--
+  CHANDRIL GOSWAMI | CYBERPUNK AI ENGINEERING PROFILE
+  Profile repository: Chandril6290Da/Chandril6290Da
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:0891B2,100:7C3AED&height=230&section=header&text=CHANDRIL%20GOSWAMI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20ROBOTICS%20%7C%20IoT%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Futuristic profile banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Exploring+Machine+Learning+%26+Deep+Learning;Connecting+the+Physical+World+with+IoT;Learning.+Building.+Experimenting.+Improving." alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=CHANDRIL%20GOSWAMI&fontSize=48&fontColor=00F5FF&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&color=0:030712,50:111827,100:030712&desc=AI%20%2F%20ML%20%7C%20ROBOTICS%20%7C%20IoT&descSize=17&descColor=C4B5FD&descAlignY=72" alt="Cyberpunk profile banner"/>
 
 <br/>
 
-<a href="https://github.com/Chandril6290Da">
-  <img src="https://img.shields.io/badge/GitHub-Chandril6290Da-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&repeat=true&width=780&height=100&lines=%3E+INITIALIZING+ENGINEERING+PROFILE...;%3E+EXPLORING+INTELLIGENT+SYSTEMS;%3E+MACHINE+LEARNING+%7C+DEEP+LEARNING;%3E+ROBOTICS+%7C+IoT+%7C+AUTOMATION;%3E+BUILD.+EXPERIMENT.+EVOLVE." alt="Animated terminal text"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-CYBERPUNK-00F5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-8B5CF6?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MODE-ENGINEERING-EC4899?style=for-the-badge&labelColor=030712"/>
+
+<br/><br/>
+
 <a href="https://github.com/Chandril6290Da?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=030712" alt="Explore repositories"/>
 </a>
-<a href="https://github.com/Chandril6290Da?tab=followers">
-  <img src="https://img.shields.io/github/followers/Chandril6290Da?style=for-the-badge&logo=github&label=Followers&color=7C3AED"/>
+<a href="https://github.com/Chandril6290Da">
+<img src="https://img.shields.io/badge/ACCESS-GITHUB_PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=030712" alt="GitHub profile"/>
 </a>
 
 </div>
 
 ---
 
-## `> SYSTEM_PROFILE`
+<div align="center">
+
+## `01 // SYSTEM_IDENTITY`
+
+**ASPIRING AI/ML & ROBOTICS ENGINEER**
+
+*Exploring the intersection of intelligence, software, and connected hardware.*
+
+</div>
 
 ```text
-NAME       : Chandril Goswami
-ROLE       : Aspiring AI/ML & Robotics Engineer
-FOCUS      : Intelligent Systems • Automation • Data
-INTERESTS  : Machine Learning • Deep Learning • IoT
-APPROACH   : Learn → Build → Test → Improve
-MISSION    : Turn ideas into practical technology.
+┌──────────────────────────────────────────────────────┐
+│  OPERATOR       : CHANDRIL GOSWAMI                   │
+│  PRIMARY DOMAIN : ARTIFICIAL INTELLIGENCE            │
+│  SYSTEMS        : ML / ROBOTICS / IoT                │
+│  ENVIRONMENT    : PYTHON / DATA / SOFTWARE            │
+│  PROTOCOL       : LEARN → BUILD → TEST → ITERATE     │
+│  STATUS         : CONTINUOUSLY LEARNING & BUILDING   │
+└──────────────────────────────────────────────────────┘
 ```
 
-I'm passionate about exploring how software, data, and hardware can work together to solve real-world problems.
+I'm interested in building intelligent applications and understanding how machine learning, data, automation, and hardware can solve practical problems.
 
-My journey combines programming, machine learning, intelligent automation, and connected systems. I enjoy building projects, experimenting with new technologies, and documenting what I learn along the way.
+My engineering journey focuses on developing strong fundamentals, building hands-on projects, experimenting with tools, and documenting implementations.
 
-> **Think intelligently. Build practically. Engineer responsibly.**
+> `THE OBJECTIVE:` Turn curiosity into working systems — one experiment at a time.
 
 ---
 
-## `> CORE_TECHNOLOGY_MATRIX`
+## `02 // NEURAL_TECH_STACK`
 
 <div align="center">
 
-### AI • MACHINE LEARNING • DATA
+### `AI / MACHINE LEARNING`
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" alt="AI and machine learning technologies"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI and ML technologies"/>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Model_Development-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep_Learning-Continuous_Learning-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-Text_Intelligence-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-Exploring-00F5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-Learning-8B5CF6?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/NLP-Exploring-EC4899?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-Exploring-22D3EE?style=flat-square&labelColor=030712"/>
 
-### PROGRAMMING • DATABASES • ANALYTICS
+### `DATA / DATABASE / ANALYTICS`
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,git,github,vscode&theme=dark" alt="Programming and development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database technologies"/>
 
-<img src="https://img.shields.io/badge/SQL-Database_Queries-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-Database_Programming-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/NUMPY-Numerical_Computing-00F5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/PANDAS-Data_Analysis-8B5CF6?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/SQL-Database_Queries-22D3EE?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-Database_Programming-EC4899?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/POWER_BI-Analytics-FACC15?style=flat-square&labelColor=030712"/>
 
-### ROBOTICS • IoT • EMBEDDED SYSTEMS
+### `SOFTWARE / DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" alt="Hardware and embedded development tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux&theme=dark" alt="Software development tools"/>
 
-<img src="https://img.shields.io/badge/IoT-Connected_Systems-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Robotics-Automation-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-Exploring-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embedded_Systems-Learning-0D9488?style=flat-square"/>
+### `ROBOTICS / EMBEDDED / IoT`
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Embedded development"/>
+
+<img src="https://img.shields.io/badge/ROBOTICS-AUTOMATION-00F5FF?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/IoT-CONNECTED_SYSTEMS-8B5CF6?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-Learning-EC4899?style=flat-square&labelColor=030712"/>
 
 </div>
 
-> Technologies shown represent my areas of interest and learning. My proficiency varies by tool, and I am continuously developing my practical skills.
+<sub>Technology badges indicate areas of interest and learning, not a claim of expert proficiency in every technology.</sub>
 
 ---
 
-## `> FEATURED_PROJECTS`
-
-### 01 / IoT & Robotics Learning Resource Map
-
-**An interactive roadmap for exploring IoT, robotics, and embedded systems.**
-
-- Curated learning resources and GitHub repositories.
-- Search and filtering by language, content type, and skill level.
-- Covers sensors, embedded systems, networking, robotics, and autonomous systems.
-
-[**↗ Explore Repository**](https://github.com/Chandril6290Da/Iot-robotics-GUIDE) · [Live Demo](https://chandril6290da.github.io/Iot-robotics-GUIDE/)
-
-### 02 / Live System Monitoring
-
-**A web-based system monitoring project.**
-
-Explore the source code, interface, and implementation details in the repository.
-
-[**↗ Explore Repository**](https://github.com/Chandril6290Da/LIVE-SYSTEM-MONITORING)
-
-### 03 / Client-Side Model Inference Validation Hub
-
-**A project focused on client-side model inference and validation.**
-
-Explore the implementation and documentation to understand its design and functionality.
-
-[**↗ Explore Repository**](https://github.com/Chandril6290Da/Client-Side-Model-Inference-Validation-Hub)
-
-### 04 / AI-Powered Resume Builder
-
-**A resume-building and formatting project.**
-
-[**↗ Explore Project Source**](https://github.com/Chandril6290Da?tab=repositories)
-
-### 05 / Library Management System — C
-
-**A menu-driven C programming project using structures and file handling.**
-
-- Book and member management
-- Book issue and return operations
-- Search and availability tracking
-- Persistent text-file storage
-
-[**↗ Explore Repository**](https://github.com/Chandril6290Da/LIABREY_MANGEMENT_SYSTEM)
-
----
-
-## `> GITHUB_ANALYTICS`
+## `03 // PROJECT_DATABASE`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chandril6290Da&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics"/>
+### `ACCESS_MY_REPOSITORIES`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=8" height="170" alt="Most-used programming languages"/>
+[![All repositories](https://img.shields.io/badge/OPEN-ALL_REPOSITORIES-00F5FF?style=for-the-badge&logo=github&labelColor=030712)](https://github.com/Chandril6290Da?tab=repositories)
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Chandril6290Da&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="95%" alt="GitHub contribution streak"/>
+### `PROJECT_001` — Live System Monitoring
 
-<br/>
+A system-monitoring project. Visit the repository to inspect its implementation, features, and documentation.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandril6290Da&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+[**↗ VIEW SOURCE CODE**](https://github.com/Chandril6290Da/LIVE-SYSTEM-MONITORING)
+
+### `PROJECT_002` — Client-Side Model Inference Validation Hub
+
+A project focused on client-side model inference and validation. Explore the source code and project documentation for its actual capabilities.
+
+[**↗ VIEW SOURCE CODE**](https://github.com/Chandril6290Da/Client-Side-Model-Inference-Validation-Hub)
+
+### `PROJECT_003` — IoT & Robotics Guide
+
+A repository for exploring IoT and robotics resources.
+
+[**↗ VIEW SOURCE CODE**](https://github.com/Chandril6290Da/Iot-robotics-GUIDE)
+
+### `PROJECT_004` — More Experiments & Builds
+
+Explore the full repository collection for additional programming projects, experiments, and learning implementations.
+
+[**↗ BROWSE ALL PROJECTS**](https://github.com/Chandril6290Da?tab=repositories)
+
+---
+
+## `04 // GITHUB_TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandril6290Da&show_icons=true&hide_border=true&bg_color=030712&title_color=00F5FF&text_color=C4B5FD&icon_color=EC4899&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&bg_color=030712&title_color=00F5FF&text_color=C4B5FD&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Chandril6290Da&hide_border=true&background=030712&ring=00F5FF&fire=EC4899&currStreakLabel=00F5FF&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chandril6290Da&bg_color=030712&color=C4B5FD&line=00F5FF&point=EC4899&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY%20GRAPH" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## `> CURRENT_LEARNING_OBJECTIVES`
+## `05 // CONTRIBUTION_SNAKE_PROTOCOL`
 
-- [ ] Strengthen Python and core programming fundamentals.
-- [ ] Master data preprocessing, EDA, and feature engineering.
-- [ ] Develop machine learning models for classification and regression.
-- [ ] Explore NLP and deep learning applications.
-- [ ] Build practical IoT and robotics prototypes.
-- [ ] Improve SQL, PL/SQL, and data analytics skills.
-- [ ] Learn model deployment and production-oriented workflows.
-- [ ] Create well-documented, reproducible engineering projects.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Chandril6290Da/Chandril6290Da/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+`CONTRIBUTION DATA → PATH GENERATION → SNAKE ANIMATION`
+
+</div>
 
 ---
 
-## `> ENGINEERING_PHILOSOPHY`
+## `06 // LEARNING_ROADMAP`
+
+```text
+[01] PYTHON & PROGRAMMING FUNDAMENTALS
+     └── Data structures, functions, libraries
+
+[02] DATA SCIENCE & MACHINE LEARNING
+     └── Preprocessing, EDA, feature engineering
+
+[03] MODEL DEVELOPMENT
+     └── Classification, regression, evaluation
+
+[04] NLP & DEEP LEARNING
+     └── Text processing, neural network concepts
+
+[05] ROBOTICS & IoT
+     └── Sensors, embedded systems, automation
+
+[06] ENGINEERING & DEPLOYMENT
+     └── Git, documentation, testing, deployment
+```
+
+### Current engineering principles
+
+- Build a solid foundation before adding complexity.
+- Prefer reproducible experiments and readable code.
+- Document assumptions, limitations, and results.
+- Learn from debugging, testing, and iteration.
+- Build projects that demonstrate real understanding.
+
+---
+
+## `07 // ENGINEERING_TERMINAL`
 
 ```python
-class EngineerInProgress:
+class EngineeringMindset:
     def __init__(self):
-        self.mindset = "Continuous Learning"
-        self.method = ["Learn", "Build", "Test", "Improve"]
-        self.focus = ["AI/ML", "Robotics", "IoT"]
+        self.mission = "Build useful technology"
+        self.process = (
+            "Learn",
+            "Experiment",
+            "Build",
+            "Test",
+            "Improve",
+        )
 
-    def next_step(self):
-        return "Build something useful."
+    def execute(self):
+        return f"Mission: {self.mission}"
 
-me = EngineerInProgress()
-print(me.next_step())
+
+system = EngineeringMindset()
+print(system.execute())
 ```
+
+<div align="center">
+
+### `ERRORS ARE DATA. EXPERIMENTS ARE PROGRESS.`
+
+<img src="https://img.shields.io/badge/BUILD-INTELLIGENTLY-00F5FF?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/THINK-CRITICALLY-8B5CF6?style=for-the-badge&labelColor=030712"/>
+<img src="https://img.shields.io/badge/ITERATE-CONTINUOUSLY-EC4899?style=for-the-badge&labelColor=030712"/>
+
+</div>
 
 ---
 
-## `> CONNECT_WITH_ME`
+## `08 // CONNECTION_GATEWAY`
 
 <div align="center">
 
 <a href="https://github.com/Chandril6290Da">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-00F5FF?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=030712" alt="GitHub profile"/>
 </a>
+
 <a href="https://github.com/Chandril6290Da?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View_Projects-0891B2?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/PROJECTS-REPOSITORIES-8B5CF6?style=for-the-badge&logo=git&logoColor=white&labelColor=030712" alt="Repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chandril6290Da&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile view counter"/>
+<img src="https://komarev.com/ghpvc/?username=Chandril6290Da&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITS" alt="Profile visits"/>
 
 <br/><br/>
 
-**Building today. Innovating tomorrow.**
+**CURIOUS MIND. ENGINEERING MINDSET. CONTINUOUS EVOLUTION.**
 
-<sub>Designed with curiosity, code, and a futuristic engineering mindset.</sub>
+<sub>CYBERPUNK AI PROFILE // CHANDRIL GOSWAMI</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:020617&height=110&section=footer" width="100%" alt="Decorative footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:030712,50:312E81,100:0891B2&animation=fadeIn" alt="Cyberpunk footer"/>
 
 </div>
