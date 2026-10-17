@@ -1,59 +1,55 @@
 
-<!-- ===================================================== -->
-<!-- CHANDRIL GOSWAMI | FUTURE ENGINEER PROFILE README      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:C7D2FE&height=210&section=header&text=CHANDRIL%20GOSWAMI&fontSize=42&fontColor=0F172A&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20BUILDER%20%7C%20EXPLORER&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Futuristic profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:BFDBFE,100:C7D2FE&height=210&section=header&text=CHANDRIL%20GOSWAMI&fontSize=42&fontColor=0F172A&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20BUILDER%20%7C%20EXPLORER&descSize=14&descAlignY=59&animation=fadeIn" width="100%" alt="Chandril Goswami futuristic profile banner"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Machine+Learning+%7C+Data+Science;Exploring+Robotics+%26+Automation;Learning.+Building.+Improving." alt="Animated introduction"/>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/Chandril6290Da">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:chandrilgoswamiofficial6290@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Let's%20Connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+    <img src="https://img.shields.io/badge/Contact-Let's%20Connect-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <br/><br/>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Chandril6290Da&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
-  ![GitHub followers](https://img.shields.io/github/followers/Chandril6290Da?style=flat-square&color=4F46E5&label=FOLLOWERS)
+  ![GitHub Followers](https://img.shields.io/github/followers/Chandril6290Da?style=flat-square&color=4F46E5&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## 01 / NEURAL SYSTEMS
+# 01 / NEURAL SYSTEMS
 
 > Engineering practical intelligence through code, experimentation, and continuous learning.
 
-I'm **Chandril Goswami**, a BCA graduate/student profile focused on Machine Learning, intelligent systems, data analysis, and robotics. I enjoy transforming technical concepts into practical projects and exploring how software, data, and hardware work together.
+I'm **Chandril Goswami**, a BCA professional focused on Machine Learning, intelligent systems, data analysis, and robotics. I enjoy transforming technical concepts into practical projects and exploring how software, data, and hardware work together.
 
-- **Currently exploring:** Machine Learning pipelines, feature engineering, NLP, and model deployment.
-- **Building toward:** Reliable, understandable, and useful AI-powered applications.
-- **Engineering mindset:** Understand the problem → Prepare the data → Build the model → Evaluate → Improve → Deploy.
+- **Focus:** Machine Learning, data science, NLP, and robotics.
+- **Currently developing:** ML preprocessing workflows and deployment-oriented projects.
+- **Engineering mindset:** Understand → Prepare → Build → Evaluate → Improve → Deploy.
 - **Location:** Kolkata, West Bengal, India.
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                  INTELLIGENT SYSTEMS                 │
-├─────────────────────────────────────────────────────┤
-│  DATA  ──────►  LEARNING  ──────►  PREDICTION       │
-│    │                │                  │             │
-│    ▼                ▼                  ▼             │
-│  ANALYSIS       OPTIMIZATION        APPLICATION     │
-└─────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│               INTELLIGENT SYSTEMS                  │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│   DATA ──────► LEARNING ──────► PREDICTION         │
+│     │              │                │              │
+│     ▼              ▼                ▼              │
+│  ANALYSIS      OPTIMIZATION     APPLICATION        │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
-## 02 / AI RESEARCH LAB
+# 02 / AI RESEARCH LAB
 
-### Technical stack
-
-**Programming and data**
+## Programming and data science
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -63,7 +59,7 @@ I'm **Chandril Goswami**, a BCA graduate/student profile focused on Machine Lear
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
 </p>
 
-**Machine learning and AI**
+## Machine learning and AI
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
@@ -71,7 +67,7 @@ I'm **Chandril Goswami**, a BCA graduate/student profile focused on Machine Lear
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-**Web development and databases**
+## Web development and databases
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -82,7 +78,7 @@ I'm **Chandril Goswami**, a BCA graduate/student profile focused on Machine Lear
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-**Robotics and tools**
+## Robotics and development tools
 
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
@@ -98,50 +94,71 @@ I'm **Chandril Goswami**, a BCA graduate/student profile focused on Machine Lear
 |---|---|
 | Machine Learning | Classification, regression, preprocessing, model evaluation |
 | Data Science | Data cleaning, EDA, visualization, feature engineering |
-| NLP | Text preprocessing, text classification, language data |
-| Deployment | REST APIs, FastAPI, model serving, Docker fundamentals |
-| Robotics & IoT | Arduino, ESP32, sensors, motor drivers, automation |
-| Software Engineering | OOP, CRUD applications, databases, responsive interfaces |
+| NLP | Text preprocessing, text classification |
+| Deployment | REST APIs, FastAPI, Docker fundamentals |
+| Robotics and IoT | Arduino, ESP32, sensors, motor drivers |
+| Software Engineering | OOP, CRUD applications, databases, responsive design |
 
-*This stack represents my learning and project interests; proficiency varies by technology.*
+*My experience and proficiency vary across technologies; these are the areas I study and build projects in.*
 
-## 03 / FUTURE ENGINEER — EDUCATION
+# 03 / FUTURE ENGINEER
+
+## Education
 
 **Bachelor of Computer Applications (BCA)**  
-Machine Learning specialization  
-EIILM-Kolkata
+**Specialization:** Machine Learning  
+**Institution:** EIILM-Kolkata
 
-My learning focuses on the intersection of programming, data-driven decision-making, artificial intelligence, and real-world engineering.
-
-**Learning principles**
+### Engineering principles
 
 - Understand concepts before relying on libraries.
-- Build reproducible, well-documented experiments.
-- Evaluate models instead of trusting accuracy alone.
-- Consider data leakage, limitations, and responsible AI.
-- Turn experiments into usable applications.
+- Build reproducible and well-documented experiments.
+- Evaluate models using suitable metrics.
+- Avoid data leakage and misleading performance claims.
+- Consider limitations, fairness, and responsible AI.
+- Turn experiments into useful applications.
 
-## 04 / ENGINEERING PROJECTS
+### My ML workflow
 
-### Featured repositories
+```text
+01. Problem Definition
+          ↓
+02. Data Collection and Understanding
+          ↓
+03. Data Cleaning and EDA
+          ↓
+04. Feature Engineering and Preprocessing
+          ↓
+05. Model Training and Tuning
+          ↓
+06. Evaluation and Error Analysis
+          ↓
+07. API / Application Deployment
+          ↓
+08. Monitoring and Improvement
+```
+
+# 04 / ENGINEERING PROJECTS
+
+## Featured repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 IoT & Robotics Guide</h3>
-      An interactive learning roadmap for IoT, embedded systems, robotics, and AI.
+      A learning resource for IoT, embedded systems, robotics, and automation.
       <br/><br/>
-      <a href="https://github.com/Chandril6290Da/Iot-robotics-GUIDE">View repository →</a>
+      <a href="https://github.com/Chandril6290Da/Iot-robotics-GUIDE">Explore repository →</a>
       <br/>
-      <a href="https://chandril6290da.github.io/Iot-robotics-GUIDE/">Live demo →</a>
+      <a href="https://chandril6290da.github.io/Iot-robotics-GUIDE/">View live demo →</a>
       <br/><br/>
       <sub>HTML · CSS · JavaScript · Robotics</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 RabTech AI/ML Internship</h3>
-      Internship project workspace covering problem framing, preprocessing, model evaluation, NLP, and deployment-oriented work.
+      Project workspace for problem framing, preprocessing, model training, NLP, and deployment-oriented learning.
       <br/><br/>
-      <a href="https://github.com/Chandril6290Da/RabTech-AI-ML-Internship">View repository →</a>
+      <a href="https://github.com/Chandril6290Da/RabTech-AI-ML-Internship">Explore repository →</a>
       <br/><br/>
       <sub>Python · Scikit-learn · NLP · ML pipelines</sub>
     </td>
@@ -149,7 +166,7 @@ My learning focuses on the intersection of programming, data-driven decision-mak
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 Maze-Solving Robotics</h3>
-      Explore a robotics concept involving maze navigation, sensor-based decisions, and motor control.
+      A robotics concept involving maze navigation, sensor-driven decisions, and motor control.
       <br/><br/>
       <a href="https://github.com/Chandril6290Da?tab=repositories">Explore repositories →</a>
       <br/><br/>
@@ -157,47 +174,59 @@ My learning focuses on the intersection of programming, data-driven decision-mak
     </td>
     <td width="50%" valign="top">
       <h3>📊 Machine Learning Experiments</h3>
-      Explore data preprocessing, predictive modeling, feature engineering, and evaluation experiments.
+      Experiments in data preparation, predictive modeling, feature engineering, and evaluation.
       <br/><br/>
       <a href="https://github.com/Chandril6290Da?tab=repositories">Explore repositories →</a>
       <br/><br/>
-      <sub>Python · Pandas · ML · Visualization</sub>
+      <sub>Python · Pandas · Machine Learning</sub>
     </td>
   </tr>
 </table>
 
-### Project engineering workflow
+### Project development lifecycle
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Problem Definition] --> B[Data Collection]
     B --> C[EDA and Cleaning]
     C --> D[Feature Engineering]
     D --> E[Model Training]
     E --> F[Evaluation]
-    F --> G[API / Application]
+    F --> G[API or Application]
     G --> H[Monitoring and Improvement]
     H --> C
 ```
 
-## 05 / RECRUITER DASHBOARD
+# 05 / RECRUITER DASHBOARD
 
-### GitHub activity
+## GitHub statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chandril6290Da&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&icon_color=4F46E5&rank_icon=github" width="49%" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155" width="41%" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandril6290Da&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155" width="41%" alt="Most used programming languages"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Chandril6290Da&hide_border=true&background=FFFFFF&ring=2563EB&fire=4F46E5&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" width="75%" alt="GitHub contribution streak"/>
 </div>
 
+### Contribution calendar
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandril6290Da&bg_color=FFFFFF&color=334155&line=2563EB&point=4F46E5&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+  <a href="https://github.com/Chandril6290Da?tab=overview">
+    <img src="https://ghchart.rshah.org/2563EB/Chandril6290Da" alt="GitHub contribution calendar for Chandril Goswami" width="100%"/>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/Chandril6290Da?tab=overview">
+    View contribution history on GitHub →
+  </a>
+
 </div>
 
-<sub>Statistics and contribution visuals depend on public GitHub data and third-party services. Some widgets may take time to load or may be temporarily unavailable.</sub>
+<sub>The contribution calendar uses an external image service. If it becomes unavailable, the link above still opens your GitHub profile. GitHub statistics are supplied by third-party services and may occasionally be unavailable.</sub>
 
 ---
 
@@ -206,9 +235,9 @@ flowchart LR
 ```text
 [01] LEARN       → Strengthen ML and statistical foundations
 [02] ENGINEER    → Develop reliable preprocessing pipelines
-[03] EXPERIMENT  → Test models, features, and evaluation metrics
+[03] EXPERIMENT  → Test features, models, and evaluation metrics
 [04] DEPLOY      → Explore APIs and reproducible deployments
-[05] DOCUMENT    → Keep repositories clear and useful
+[05] DOCUMENT    → Make projects clear, useful, and maintainable
 ```
 
 ## LET'S CONNECT
@@ -230,5 +259,9 @@ flowchart LR
   **Building today. Learning continuously. Engineering tomorrow.**
 
   <sub>Designed with curiosity and a passion for intelligent systems.</sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7D2FE,50:BFDBFE,100:DBEAFE&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
