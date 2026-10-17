@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- =========================================================
      CHANDRIL6290DA | HOLOGRAPHIC AI CORE
      GitHub Profile README
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<<<<<<< HEAD
+
   ### `◈ SYSTEM BOOT :: DEVELOPER PROFILE`
 
   `INITIALIZING NEURAL INTERFACE...`  
@@ -303,7 +303,6 @@ A web-based learning guide that organizes resources for exploring IoT, robotics,
 
 ---
 
-<<<<<<< HEAD
 ### ◈ More projects
 
 Explore my public repositories to see additional experiments, source code, and learning projects.
